@@ -44,8 +44,7 @@ Gift card and Follow us:
 This project is licensed under the MIT License. See the LICENSE file for details
 
 ## ✨ Author
-👤 [Srishanth Reddy Narra]<br>
-📧 Email: srishanthreddy456@gmail.com<br>
-🔗 Mobile no: +91-8328214109<br>
-📌 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/srishanth-reddy-narra-61a1142a0/)
+👤 [Akarsh shukla]<br>
+📧 Email: aakarshshukla052@gmail.com<br>
+🔗 Mobile no: +91-9170783594<br>
 # DINE-IN
